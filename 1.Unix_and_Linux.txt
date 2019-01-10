@@ -1,0 +1,55 @@
+1. Overview of Operating System:
+--------------------------------
+2. History of Unix/Linux:
+-------------------------
+3. Features of Unix/Linux:
+--------------------------
+4. Flavors of Unix/Linux:
+--------------------------
+a) Unix flavors:
+--------------- 
+Sun’s Solaris (Oracle)
+IBM’s AIX
+HP’s HP-UX
+AT&T's System Vr4
+BSD Unix
+Apple's Mac OS X
+
+b) Linux flavors:
+----------------
+Debian(32.1%)
+Canonical Ltd: Ubuntu (32.1%)
+Red hat Inc: RHEL (3.9%)
+The Cenos Project(sponsored by Red hat): Centos (20.4%)
+Fedora Project(sponsored by Red hat) : Fedora(1.1%)
+openSUSE Project(sponsored by SUSE Linux Gmbh): openSUSE (1.0%)
+Gentoo(2.7%)
+
+
+5. Comparison of Unix with Windows:
+-----------------------------------
+6. Architecture of Unix/Linux:
+-----------------------------
+7. Shell:
+---------
+8. Kernel:
+---------
+
+
+
+
+
+9. Different types of files in unix and linux:
+----------------------------------------------
+a) Regular files or Ordinary file:
+----------------------------------
+A large majority of the files found on unix and Linux systemare ordinary files. ordinary files contains ASCII text, executable program binaries, program data and more
+
+b) Directory files:
+-------------------
+A directory is a binary file used to track and locate other files and directories
+
+
+c) Device files:
+----------------
+

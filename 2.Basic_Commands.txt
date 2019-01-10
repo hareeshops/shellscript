@@ -1,0 +1,45 @@
+1. pwd:
+------
+pwd - print name of current working directory
+
+a) Shell pwd vs /bin/pwd
+b) type -a pwd  (To see all locations containing an executable named pwd)
+c) /bin/pwd --version (To see the version of pwd command)
+d) /bin/pwd --help (To get help)
+e) man pwd (To get manual paes)
+
+
+2. logname: 
+----------
+logname stands for Login Name
+
+
+3. who:
+------- 
+who command which displays users who are currently logged on to a linux system.
+
+who with arguments:
+------------------
+who -H (To print heading of the columns)
+who -q (To print login names and total number of logged on users)
+who -b (To view the last system boot)
+
+4. finger:
+----------
+finger looks up and displays information about system users.
+
+
+5. Exit:
+--------
+The exit command lets you quit the shell where it's run.
+
+a) type -a exit
+
+6. data:
+--------
+
+7. cal
+-------
+
+8. banner
+---------
